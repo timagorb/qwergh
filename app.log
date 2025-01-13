@@ -1,0 +1,397 @@
+2025-01-08 01:10:11,610 - INFO - Получение данных из RSS
+2025-01-08 01:10:11,716 - INFO - Обработка данных RSS
+2025-01-08 01:10:11,716 - INFO - Получение дополнительных данных из ссылок
+2025-01-08 01:10:11,818 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53999406-v-gosdume-raskryli-populyarnuyu-shemu-obmana-pri-arende-kvartiry/
+2025-01-08 01:10:11,836 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53998165-s-1-yanvarya-izmenilis-pravila-vydachi-zhilischnyh-kreditov/
+2025-01-08 01:10:11,852 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53988869-otseneno-vliyanie-otkrytiya-novyh-stantsiy-metro-v-moskve-na-stoimost-arendy-zhilya/
+2025-01-08 01:10:11,867 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53982536-obrativsheesya-k-putinu-suprugi-iz-krasnodara-vzyali-semeynuyu-ipoteku/
+2025-01-08 01:10:11,886 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53984552-limity-po-semeynoy-ipoteke-pochti-snyaty-k-chemu-eto-privedet/
+2025-01-08 01:10:11,903 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53989351-tsb-obem-lgotnoy-ipoteki-v-rossii-v-dekabre-sohranitsya-na-urovne-noyabrya/
+2025-01-08 01:10:11,921 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53995445-eksperty-rasskazali-o-tsenah-na-nedvizhimost-v-2025-godu/
+2025-01-08 01:10:11,936 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53985484-s-1-yanvarya-nachnut-deystvovat-novye-zakony-o-nedvizhimosti-chto-zhdet-sobstvennikov/
+2025-01-08 01:10:11,974 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53980595-pervyy-vznos-po-ipoteke-na-odnushku-v-megapolisah-vyros-pochti-do-80/
+2025-01-08 01:10:11,989 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53980333-dan-prognoz-dostupnosti-ipoteki-dlya-rossiyan-v-2025-godu/
+2025-01-08 01:10:11,994 - INFO - Объединение данных
+2025-01-08 01:10:11,995 - INFO - Подключение к базе данных SQLite
+2025-01-08 01:10:11,998 - ERROR - Ошибка при подключении к базе данных: unable to open database file
+2025-01-08 01:51:28,389 - INFO - Получение данных из RSS
+2025-01-08 01:51:28,623 - INFO - Обработка данных RSS
+2025-01-08 01:51:28,677 - INFO - Изображение сохранено: /app/images\image_0.jpg
+2025-01-08 01:51:28,739 - INFO - Изображение сохранено: /app/images\image_1.jpg
+2025-01-08 01:51:28,807 - INFO - Изображение сохранено: /app/images\image_2.jpg
+2025-01-08 01:51:28,854 - INFO - Изображение сохранено: /app/images\image_3.jpg
+2025-01-08 01:51:28,910 - INFO - Изображение сохранено: /app/images\image_4.jpg
+2025-01-08 01:51:28,981 - INFO - Изображение сохранено: /app/images\image_5.jpg
+2025-01-08 01:51:29,068 - INFO - Изображение сохранено: /app/images\image_6.jpg
+2025-01-08 01:51:29,120 - INFO - Изображение сохранено: /app/images\image_7.jpg
+2025-01-08 01:51:29,178 - INFO - Изображение сохранено: /app/images\image_8.jpg
+2025-01-08 01:51:29,241 - INFO - Изображение сохранено: /app/images\image_9.jpg
+2025-01-08 01:51:29,243 - INFO - Получение дополнительных данных из ссылок
+2025-01-08 01:51:29,522 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53980595-pervyy-vznos-po-ipoteke-na-odnushku-v-megapolisah-vyros-pochti-do-80/
+2025-01-08 01:51:29,548 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53998165-s-1-yanvarya-izmenilis-pravila-vydachi-zhilischnyh-kreditov/
+2025-01-08 01:51:29,571 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53989351-tsb-obem-lgotnoy-ipoteki-v-rossii-v-dekabre-sohranitsya-na-urovne-noyabrya/
+2025-01-08 01:51:29,588 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53988869-otseneno-vliyanie-otkrytiya-novyh-stantsiy-metro-v-moskve-na-stoimost-arendy-zhilya/
+2025-01-08 01:51:29,606 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53984552-limity-po-semeynoy-ipoteke-pochti-snyaty-k-chemu-eto-privedet/
+2025-01-08 01:51:29,623 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53980333-dan-prognoz-dostupnosti-ipoteki-dlya-rossiyan-v-2025-godu/
+2025-01-08 01:51:29,640 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53982536-obrativsheesya-k-putinu-suprugi-iz-krasnodara-vzyali-semeynuyu-ipoteku/
+2025-01-08 01:51:29,658 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53995445-eksperty-rasskazali-o-tsenah-na-nedvizhimost-v-2025-godu/
+2025-01-08 01:51:29,724 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53999406-v-gosdume-raskryli-populyarnuyu-shemu-obmana-pri-arende-kvartiry/
+2025-01-08 01:51:29,762 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53985484-s-1-yanvarya-nachnut-deystvovat-novye-zakony-o-nedvizhimosti-chto-zhdet-sobstvennikov/
+2025-01-08 01:51:29,766 - INFO - Объединение данных
+2025-01-08 01:51:29,767 - INFO - Подключение к базе данных SQLite
+2025-01-08 01:51:29,769 - ERROR - Ошибка при подключении к базе данных: unable to open database file
+2025-01-08 01:53:39,621 - INFO - Получение данных из RSS
+2025-01-08 01:53:39,716 - INFO - Обработка данных RSS
+2025-01-08 01:53:39,762 - INFO - Изображение сохранено: /app/images\image_0.jpg
+2025-01-08 01:53:39,812 - INFO - Изображение сохранено: /app/images\image_1.jpg
+2025-01-08 01:53:39,865 - INFO - Изображение сохранено: /app/images\image_2.jpg
+2025-01-08 01:53:39,913 - INFO - Изображение сохранено: /app/images\image_3.jpg
+2025-01-08 01:53:39,958 - INFO - Изображение сохранено: /app/images\image_4.jpg
+2025-01-08 01:53:40,120 - INFO - Изображение сохранено: /app/images\image_5.jpg
+2025-01-08 01:53:40,205 - INFO - Изображение сохранено: /app/images\image_6.jpg
+2025-01-08 01:53:40,258 - INFO - Изображение сохранено: /app/images\image_7.jpg
+2025-01-08 01:53:40,317 - INFO - Изображение сохранено: /app/images\image_8.jpg
+2025-01-08 01:53:40,383 - INFO - Изображение сохранено: /app/images\image_9.jpg
+2025-01-08 01:53:40,385 - INFO - Получение дополнительных данных из ссылок
+2025-01-08 01:53:40,697 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53999406-v-gosdume-raskryli-populyarnuyu-shemu-obmana-pri-arende-kvartiry/
+2025-01-08 01:53:40,719 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53982536-obrativsheesya-k-putinu-suprugi-iz-krasnodara-vzyali-semeynuyu-ipoteku/
+2025-01-08 01:53:40,739 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53980595-pervyy-vznos-po-ipoteke-na-odnushku-v-megapolisah-vyros-pochti-do-80/
+2025-01-08 01:53:40,756 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53998165-s-1-yanvarya-izmenilis-pravila-vydachi-zhilischnyh-kreditov/
+2025-01-08 01:53:40,860 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53989351-tsb-obem-lgotnoy-ipoteki-v-rossii-v-dekabre-sohranitsya-na-urovne-noyabrya/
+2025-01-08 01:53:40,880 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53984552-limity-po-semeynoy-ipoteke-pochti-snyaty-k-chemu-eto-privedet/
+2025-01-08 01:53:40,898 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53995445-eksperty-rasskazali-o-tsenah-na-nedvizhimost-v-2025-godu/
+2025-01-08 01:53:40,914 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53980333-dan-prognoz-dostupnosti-ipoteki-dlya-rossiyan-v-2025-godu/
+2025-01-08 01:53:40,954 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53985484-s-1-yanvarya-nachnut-deystvovat-novye-zakony-o-nedvizhimosti-chto-zhdet-sobstvennikov/
+2025-01-08 01:53:41,052 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53988869-otseneno-vliyanie-otkrytiya-novyh-stantsiy-metro-v-moskve-na-stoimost-arendy-zhilya/
+2025-01-08 01:53:41,057 - INFO - Объединение данных
+2025-01-08 01:53:41,065 - INFO - Подключение к базе данных SQLite
+2025-01-08 01:53:41,067 - ERROR - Ошибка при подключении к базе данных: unable to open database file
+2025-01-08 01:57:31,347 - INFO - Получение данных из RSS
+2025-01-08 01:57:31,463 - INFO - Обработка данных RSS
+2025-01-08 01:57:31,503 - INFO - Изображение сохранено: /app/images\image_0.jpg
+2025-01-08 01:57:31,564 - INFO - Изображение сохранено: /app/images\image_1.jpg
+2025-01-08 01:57:31,618 - INFO - Изображение сохранено: /app/images\image_2.jpg
+2025-01-08 01:57:31,668 - INFO - Изображение сохранено: /app/images\image_3.jpg
+2025-01-08 01:57:31,714 - INFO - Изображение сохранено: /app/images\image_4.jpg
+2025-01-08 01:57:31,785 - INFO - Изображение сохранено: /app/images\image_5.jpg
+2025-01-08 01:57:31,869 - INFO - Изображение сохранено: /app/images\image_6.jpg
+2025-01-08 01:57:31,911 - INFO - Изображение сохранено: /app/images\image_7.jpg
+2025-01-08 01:57:31,963 - INFO - Изображение сохранено: /app/images\image_8.jpg
+2025-01-08 01:57:32,023 - INFO - Изображение сохранено: /app/images\image_9.jpg
+2025-01-08 01:57:32,025 - INFO - Получение дополнительных данных из ссылок
+2025-01-08 01:57:32,326 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53999406-v-gosdume-raskryli-populyarnuyu-shemu-obmana-pri-arende-kvartiry/
+2025-01-08 01:57:32,345 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53985484-s-1-yanvarya-nachnut-deystvovat-novye-zakony-o-nedvizhimosti-chto-zhdet-sobstvennikov/
+2025-01-08 01:57:32,361 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53980333-dan-prognoz-dostupnosti-ipoteki-dlya-rossiyan-v-2025-godu/
+2025-01-08 01:57:32,429 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53995445-eksperty-rasskazali-o-tsenah-na-nedvizhimost-v-2025-godu/
+2025-01-08 01:57:32,444 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53998165-s-1-yanvarya-izmenilis-pravila-vydachi-zhilischnyh-kreditov/
+2025-01-08 01:57:32,461 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53989351-tsb-obem-lgotnoy-ipoteki-v-rossii-v-dekabre-sohranitsya-na-urovne-noyabrya/
+2025-01-08 01:57:32,477 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53988869-otseneno-vliyanie-otkrytiya-novyh-stantsiy-metro-v-moskve-na-stoimost-arendy-zhilya/
+2025-01-08 01:57:32,668 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53980595-pervyy-vznos-po-ipoteke-na-odnushku-v-megapolisah-vyros-pochti-do-80/
+2025-01-08 01:57:32,787 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53984552-limity-po-semeynoy-ipoteke-pochti-snyaty-k-chemu-eto-privedet/
+2025-01-08 01:57:32,803 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53982536-obrativsheesya-k-putinu-suprugi-iz-krasnodara-vzyali-semeynuyu-ipoteku/
+2025-01-08 01:57:32,807 - INFO - Объединение данных
+2025-01-08 01:57:32,813 - INFO - Подключение к базе данных SQLite
+2025-01-08 01:57:32,814 - ERROR - Ошибка при подключении к базе данных: unable to open database file
+2025-01-08 02:26:11,024 - INFO - Получение данных из RSS
+2025-01-08 02:26:11,199 - INFO - Обработка данных RSS
+2025-01-08 02:26:11,245 - INFO - Изображение сохранено: /app/images\image_0.jpg
+2025-01-08 02:26:11,306 - INFO - Изображение сохранено: /app/images\image_1.jpg
+2025-01-08 02:26:11,371 - INFO - Изображение сохранено: /app/images\image_2.jpg
+2025-01-08 02:26:11,421 - INFO - Изображение сохранено: /app/images\image_3.jpg
+2025-01-08 02:26:11,473 - INFO - Изображение сохранено: /app/images\image_4.jpg
+2025-01-08 02:26:11,544 - INFO - Изображение сохранено: /app/images\image_5.jpg
+2025-01-08 02:26:11,631 - INFO - Изображение сохранено: /app/images\image_6.jpg
+2025-01-08 02:26:11,691 - INFO - Изображение сохранено: /app/images\image_7.jpg
+2025-01-08 02:26:11,751 - INFO - Изображение сохранено: /app/images\image_8.jpg
+2025-01-08 02:26:11,813 - INFO - Изображение сохранено: /app/images\image_9.jpg
+2025-01-08 02:26:11,815 - INFO - Получение дополнительных данных из ссылок
+2025-01-08 02:26:12,119 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53988869-otseneno-vliyanie-otkrytiya-novyh-stantsiy-metro-v-moskve-na-stoimost-arendy-zhilya/
+2025-01-08 02:26:12,138 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53980333-dan-prognoz-dostupnosti-ipoteki-dlya-rossiyan-v-2025-godu/
+2025-01-08 02:26:12,158 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53995445-eksperty-rasskazali-o-tsenah-na-nedvizhimost-v-2025-godu/
+2025-01-08 02:26:12,175 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53984552-limity-po-semeynoy-ipoteke-pochti-snyaty-k-chemu-eto-privedet/
+2025-01-08 02:26:12,213 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53989351-tsb-obem-lgotnoy-ipoteki-v-rossii-v-dekabre-sohranitsya-na-urovne-noyabrya/
+2025-01-08 02:26:12,230 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53999406-v-gosdume-raskryli-populyarnuyu-shemu-obmana-pri-arende-kvartiry/
+2025-01-08 02:26:12,247 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53980595-pervyy-vznos-po-ipoteke-na-odnushku-v-megapolisah-vyros-pochti-do-80/
+2025-01-08 02:26:12,264 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53998165-s-1-yanvarya-izmenilis-pravila-vydachi-zhilischnyh-kreditov/
+2025-01-08 02:26:12,302 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53985484-s-1-yanvarya-nachnut-deystvovat-novye-zakony-o-nedvizhimosti-chto-zhdet-sobstvennikov/
+2025-01-08 02:26:12,318 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53982536-obrativsheesya-k-putinu-suprugi-iz-krasnodara-vzyali-semeynuyu-ipoteku/
+2025-01-08 02:26:12,320 - INFO - Объединение данных
+2025-01-08 18:11:53,405 - INFO - Получение данных из RSS
+2025-01-08 18:11:53,701 - INFO - Обработка данных RSS
+2025-01-08 18:11:53,787 - INFO - Изображение сохранено: /app/images\image_0.jpg
+2025-01-08 18:11:53,883 - INFO - Изображение сохранено: /app/images\image_1.jpg
+2025-01-08 18:11:53,939 - INFO - Изображение сохранено: /app/images\image_2.jpg
+2025-01-08 18:11:54,002 - INFO - Изображение сохранено: /app/images\image_3.jpg
+2025-01-08 18:11:54,068 - INFO - Изображение сохранено: /app/images\image_4.jpg
+2025-01-08 18:11:54,118 - INFO - Изображение сохранено: /app/images\image_5.jpg
+2025-01-08 18:11:54,178 - INFO - Изображение сохранено: /app/images\image_6.jpg
+2025-01-08 18:11:54,251 - INFO - Изображение сохранено: /app/images\image_7.jpg
+2025-01-08 18:11:54,365 - INFO - Изображение сохранено: /app/images\image_8.jpg
+2025-01-08 18:11:54,420 - INFO - Изображение сохранено: /app/images\image_9.jpg
+2025-01-08 18:11:54,422 - INFO - Получение дополнительных данных из ссылок
+2025-01-08 18:11:54,721 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54016449-spetsialist-po-nedvizhimosti-radchenko-dala-sovet-vkladyvatsya-v-2025-godu-v-izhs/
+2025-01-08 18:11:54,744 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54016980-horoshee-vremya-na-rynke-nedvizhimosti-podoshlo-k-kontsu-ekspert/
+2025-01-08 18:11:54,769 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53995445-eksperty-rasskazali-o-tsenah-na-nedvizhimost-v-2025-godu/
+2025-01-08 18:11:54,788 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53985484-s-1-yanvarya-nachnut-deystvovat-novye-zakony-o-nedvizhimosti-chto-zhdet-sobstvennikov/
+2025-01-08 18:11:54,809 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53989351-tsb-obem-lgotnoy-ipoteki-v-rossii-v-dekabre-sohranitsya-na-urovne-noyabrya/
+2025-01-08 18:11:54,827 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53998165-s-1-yanvarya-izmenilis-pravila-vydachi-zhilischnyh-kreditov/
+2025-01-08 18:11:54,845 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53988869-otseneno-vliyanie-otkrytiya-novyh-stantsiy-metro-v-moskve-na-stoimost-arendy-zhilya/
+2025-01-08 18:11:54,865 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53984552-limity-po-semeynoy-ipoteke-pochti-snyaty-k-chemu-eto-privedet/
+2025-01-08 18:11:54,911 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53982536-obrativsheesya-k-putinu-suprugi-iz-krasnodara-vzyali-semeynuyu-ipoteku/
+2025-01-08 18:11:54,930 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53999406-v-gosdume-raskryli-populyarnuyu-shemu-obmana-pri-arende-kvartiry/
+2025-01-08 18:11:54,932 - INFO - Объединение данных
+2025-01-08 18:11:54,960 - INFO - Подключение к базе данных SQLite
+2025-01-08 18:11:54,963 - ERROR - Ошибка при подключении к базе данных: unable to open database file
+2025-01-09 14:18:19,075 - INFO - Получение данных из RSS
+2025-01-09 14:18:19,354 - INFO - Обработка данных RSS
+2025-01-09 14:18:19,415 - INFO - Изображение сохранено: /app/images\image_0.jpg
+2025-01-09 14:18:19,492 - INFO - Изображение сохранено: /app/images\image_1.jpg
+2025-01-09 14:18:19,550 - INFO - Изображение сохранено: /app/images\image_2.jpg
+2025-01-09 14:18:19,610 - INFO - Изображение сохранено: /app/images\image_3.jpg
+2025-01-09 14:18:19,668 - INFO - Изображение сохранено: /app/images\image_4.jpg
+2025-01-09 14:18:19,724 - INFO - Изображение сохранено: /app/images\image_5.jpg
+2025-01-09 14:18:19,803 - INFO - Изображение сохранено: /app/images\image_6.jpg
+2025-01-09 14:18:19,897 - INFO - Изображение сохранено: /app/images\image_7.jpg
+2025-01-09 14:18:19,957 - INFO - Изображение сохранено: /app/images\image_8.jpg
+2025-01-09 14:18:20,025 - INFO - Изображение сохранено: /app/images\image_9.jpg
+2025-01-09 14:18:20,028 - INFO - Получение дополнительных данных из ссылок
+2025-01-09 14:18:20,289 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54018987-chto-izmenitsya-na-rynke-vtorichek-v-2025-godu/
+2025-01-09 14:18:20,332 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54016449-spetsialist-po-nedvizhimosti-radchenko-dala-sovet-vkladyvatsya-v-2025-godu-v-izhs/
+2025-01-09 14:18:20,355 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54019947-moskvichi-nazvali-glavnye-trebovaniya-k-zhilyu-v-2025-godu/
+2025-01-09 14:18:20,372 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54019341-senator-otsenila-vozmozhnost-povysheniya-stavki-po-semeynoy-ipoteke/
+2025-01-09 14:18:20,413 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54018070-v-kislovodske-stoimost-zhilya-vyrosla-pochti-v-3-5-raza-za-pyat-let/
+2025-01-09 14:18:20,466 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53999406-v-gosdume-raskryli-populyarnuyu-shemu-obmana-pri-arende-kvartiry/
+2025-01-09 14:18:20,483 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54016980-horoshee-vremya-na-rynke-nedvizhimosti-podoshlo-k-kontsu-ekspert/
+2025-01-09 14:18:20,500 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54019633-deputat-gosdumy-chaplin-soobschil-ob-izmeneniyah-dlya-dachnikov-v-2025-godu/
+2025-01-09 14:18:20,899 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/53998165-s-1-yanvarya-izmenilis-pravila-vydachi-zhilischnyh-kreditov/
+2025-01-09 14:18:20,918 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54019026-zhelayuschim-sdelat-remont-v-kvartire-dali-neblagopriyatnyy-prognoz/
+2025-01-09 14:18:20,921 - INFO - Объединение данных
+2025-01-09 14:18:20,970 - INFO - Подключение к базе данных SQLite
+2025-01-09 14:18:20,973 - ERROR - Ошибка при подключении к базе данных: unable to open database file
+2025-01-11 11:53:48,508 - INFO - Получение данных из RSS
+2025-01-11 11:53:48,735 - INFO - Обработка данных RSS
+2025-01-11 11:53:48,794 - INFO - Изображение сохранено: /app/images\image_0.jpg
+2025-01-11 11:53:48,907 - INFO - Изображение сохранено: /app/images\image_1.jpg
+2025-01-11 11:53:48,986 - INFO - Изображение сохранено: /app/images\image_2.jpg
+2025-01-11 11:53:49,061 - INFO - Изображение сохранено: /app/images\image_3.jpg
+2025-01-11 11:53:49,117 - INFO - Изображение сохранено: /app/images\image_4.jpg
+2025-01-11 11:53:49,219 - INFO - Изображение сохранено: /app/images\image_5.jpg
+2025-01-11 11:53:49,278 - INFO - Изображение сохранено: /app/images\image_6.jpg
+2025-01-11 11:53:49,365 - INFO - Изображение сохранено: /app/images\image_7.jpg
+2025-01-11 11:53:49,431 - INFO - Изображение сохранено: /app/images\image_8.jpg
+2025-01-11 11:53:49,496 - INFO - Изображение сохранено: /app/images\image_9.jpg
+2025-01-11 11:53:49,498 - INFO - Получение дополнительных данных из ссылок
+2025-01-11 11:53:49,804 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54019633-deputat-gosdumy-chaplin-soobschil-ob-izmeneniyah-dlya-dachnikov-v-2025-godu/
+2025-01-11 11:53:49,822 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54026837-nika-estate-otsenilo-uscherb-sobstvennikov-iz-za-pozhara-v-kalifornii-v-135-mlrd/
+2025-01-11 11:53:49,839 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54019947-moskvichi-nazvali-glavnye-trebovaniya-k-zhilyu-v-2025-godu/
+2025-01-11 11:53:49,877 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54019026-zhelayuschim-sdelat-remont-v-kvartire-dali-neblagopriyatnyy-prognoz/
+2025-01-11 11:53:49,914 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54021803-putin-nazval-zhulnicheskoy-operatsiey-obman-dolschikov-zastroyschikami-v-tatarstane/
+2025-01-11 11:53:49,932 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54022123-rossiyanam-rasskazali-stoit-li-pokupat-krohotnye-apartamenty-v-moskve/
+2025-01-11 11:53:49,978 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54019341-senator-otsenila-vozmozhnost-povysheniya-stavki-po-semeynoy-ipoteke/
+2025-01-11 11:53:50,000 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54023035-v-rossii-poyavyatsya-novye-mery-podderzhki-v-ramkah-semeynoy-ipoteki/
+2025-01-11 11:53:50,043 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54026553-kak-podnyalis-tseny-na-kvartiry-v-2024-godu/
+2025-01-11 11:53:50,119 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54020599-ekspert-kolunov-tseny-na-novostroyki-v-rf-mogut-vyrasti-do-10/
+2025-01-11 11:53:50,122 - INFO - Объединение данных
+2025-01-11 11:53:50,149 - INFO - Подключение к базе данных SQLite
+2025-01-11 11:53:50,152 - ERROR - Ошибка при подключении к базе данных: unable to open database file
+2025-01-12 02:49:53,670 - INFO - Получение данных из RSS
+2025-01-12 02:49:53,894 - INFO - Обработка данных RSS
+2025-01-12 02:49:53,960 - INFO - Изображение сохранено: /app/images\image_0.jpg
+2025-01-12 02:49:54,069 - INFO - Изображение сохранено: /app/images\image_1.jpg
+2025-01-12 02:49:54,139 - INFO - Изображение сохранено: /app/images\image_2.jpg
+2025-01-12 02:49:54,208 - INFO - Изображение сохранено: /app/images\image_3.jpg
+2025-01-12 02:49:54,266 - INFO - Изображение сохранено: /app/images\image_4.jpg
+2025-01-12 02:49:54,363 - INFO - Изображение сохранено: /app/images\image_5.jpg
+2025-01-12 02:49:54,426 - INFO - Изображение сохранено: /app/images\image_6.jpg
+2025-01-12 02:49:54,510 - INFO - Изображение сохранено: /app/images\image_7.jpg
+2025-01-12 02:49:54,575 - INFO - Изображение сохранено: /app/images\image_8.jpg
+2025-01-12 02:49:54,637 - INFO - Изображение сохранено: /app/images\image_9.jpg
+2025-01-12 02:49:54,638 - INFO - Получение дополнительных данных из ссылок
+2025-01-12 02:49:54,925 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54020599-ekspert-kolunov-tseny-na-novostroyki-v-rf-mogut-vyrasti-do-10/
+2025-01-12 02:49:54,945 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54019341-senator-otsenila-vozmozhnost-povysheniya-stavki-po-semeynoy-ipoteke/
+2025-01-12 02:49:54,966 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54019947-moskvichi-nazvali-glavnye-trebovaniya-k-zhilyu-v-2025-godu/
+2025-01-12 02:49:54,985 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54026837-nika-estate-otsenilo-uscherb-sobstvennikov-iz-za-pozhara-v-kalifornii-v-135-mlrd/
+2025-01-12 02:49:55,046 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54026553-kak-podnyalis-tseny-na-kvartiry-v-2024-godu/
+2025-01-12 02:49:55,084 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54021803-putin-nazval-zhulnicheskoy-operatsiey-obman-dolschikov-zastroyschikami-v-tatarstane/
+2025-01-12 02:49:55,103 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54022123-rossiyanam-rasskazali-stoit-li-pokupat-krohotnye-apartamenty-v-moskve/
+2025-01-12 02:49:55,130 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54019633-deputat-gosdumy-chaplin-soobschil-ob-izmeneniyah-dlya-dachnikov-v-2025-godu/
+2025-01-12 02:49:55,229 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54019026-zhelayuschim-sdelat-remont-v-kvartire-dali-neblagopriyatnyy-prognoz/
+2025-01-12 02:49:55,326 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54023035-v-rossii-poyavyatsya-novye-mery-podderzhki-v-ramkah-semeynoy-ipoteki/
+2025-01-12 02:49:55,331 - INFO - Объединение данных
+2025-01-12 02:49:55,366 - INFO - Подключение к базе данных SQLite
+2025-01-12 02:49:55,371 - ERROR - Ошибка при подключении к базе данных: unable to open database file
+2025-01-12 04:57:48,397 - INFO - Получение данных из RSS
+2025-01-12 04:57:48,513 - INFO - Обработка данных RSS
+2025-01-12 04:57:48,566 - INFO - Изображение сохранено: ./project/images\54020599.jpg
+2025-01-12 04:57:48,654 - INFO - Изображение сохранено: ./project/images\54026837.jpg
+2025-01-12 04:57:48,708 - INFO - Изображение сохранено: ./project/images\54026553.jpg
+2025-01-12 04:57:48,762 - INFO - Изображение сохранено: ./project/images\54022123.jpg
+2025-01-12 04:57:48,807 - INFO - Изображение сохранено: ./project/images\54023035.jpg
+2025-01-12 04:57:48,889 - INFO - Изображение сохранено: ./project/images\54021803.jpg
+2025-01-12 04:57:48,946 - INFO - Изображение сохранено: ./project/images\54019947.jpg
+2025-01-12 04:57:49,019 - INFO - Изображение сохранено: ./project/images\54019633.jpg
+2025-01-12 04:57:49,069 - INFO - Изображение сохранено: ./project/images\54019341.jpg
+2025-01-12 04:57:49,119 - INFO - Изображение сохранено: ./project/images\54019026.jpg
+2025-01-12 04:57:49,121 - INFO - Получение дополнительных данных из ссылок
+2025-01-12 04:57:49,223 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54020599-ekspert-kolunov-tseny-na-novostroyki-v-rf-mogut-vyrasti-do-10/
+2025-01-12 04:57:49,241 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54022123-rossiyanam-rasskazali-stoit-li-pokupat-krohotnye-apartamenty-v-moskve/
+2025-01-12 04:57:49,258 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54026553-kak-podnyalis-tseny-na-kvartiry-v-2024-godu/
+2025-01-12 04:57:49,280 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54023035-v-rossii-poyavyatsya-novye-mery-podderzhki-v-ramkah-semeynoy-ipoteki/
+2025-01-12 04:57:49,298 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54026837-nika-estate-otsenilo-uscherb-sobstvennikov-iz-za-pozhara-v-kalifornii-v-135-mlrd/
+2025-01-12 04:57:49,314 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54019026-zhelayuschim-sdelat-remont-v-kvartire-dali-neblagopriyatnyy-prognoz/
+2025-01-12 04:57:49,332 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54019341-senator-otsenila-vozmozhnost-povysheniya-stavki-po-semeynoy-ipoteke/
+2025-01-12 04:57:49,370 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54019633-deputat-gosdumy-chaplin-soobschil-ob-izmeneniyah-dlya-dachnikov-v-2025-godu/
+2025-01-12 04:57:49,386 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54019947-moskvichi-nazvali-glavnye-trebovaniya-k-zhilyu-v-2025-godu/
+2025-01-12 04:57:49,403 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54021803-putin-nazval-zhulnicheskoy-operatsiey-obman-dolschikov-zastroyschikami-v-tatarstane/
+2025-01-12 04:57:49,406 - INFO - Объединение данных
+2025-01-12 04:57:49,419 - INFO - Подключение к базе данных PostgreSQL
+2025-01-12 05:03:47,755 - INFO - Получение данных из RSS
+2025-01-12 05:03:47,921 - INFO - Обработка данных RSS
+2025-01-12 05:03:47,970 - INFO - Изображение сохранено: ./project/images\54020599.jpg
+2025-01-12 05:03:48,076 - INFO - Изображение сохранено: ./project/images\54026837.jpg
+2025-01-12 05:03:48,130 - INFO - Изображение сохранено: ./project/images\54026553.jpg
+2025-01-12 05:03:48,189 - INFO - Изображение сохранено: ./project/images\54022123.jpg
+2025-01-12 05:03:48,234 - INFO - Изображение сохранено: ./project/images\54023035.jpg
+2025-01-12 05:03:48,336 - INFO - Изображение сохранено: ./project/images\54021803.jpg
+2025-01-12 05:03:48,380 - INFO - Изображение сохранено: ./project/images\54019947.jpg
+2025-01-12 05:03:48,441 - INFO - Изображение сохранено: ./project/images\54019633.jpg
+2025-01-12 05:03:48,494 - INFO - Изображение сохранено: ./project/images\54019341.jpg
+2025-01-12 05:03:48,558 - INFO - Изображение сохранено: ./project/images\54019026.jpg
+2025-01-12 05:03:48,559 - INFO - Получение дополнительных данных из ссылок
+2025-01-12 05:03:48,849 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54026553-kak-podnyalis-tseny-na-kvartiry-v-2024-godu/
+2025-01-12 05:03:48,872 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54020599-ekspert-kolunov-tseny-na-novostroyki-v-rf-mogut-vyrasti-do-10/
+2025-01-12 05:03:48,896 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54023035-v-rossii-poyavyatsya-novye-mery-podderzhki-v-ramkah-semeynoy-ipoteki/
+2025-01-12 05:03:48,914 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54026837-nika-estate-otsenilo-uscherb-sobstvennikov-iz-za-pozhara-v-kalifornii-v-135-mlrd/
+2025-01-12 05:03:48,935 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54019947-moskvichi-nazvali-glavnye-trebovaniya-k-zhilyu-v-2025-godu/
+2025-01-12 05:03:48,958 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54019341-senator-otsenila-vozmozhnost-povysheniya-stavki-po-semeynoy-ipoteke/
+2025-01-12 05:03:48,977 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54021803-putin-nazval-zhulnicheskoy-operatsiey-obman-dolschikov-zastroyschikami-v-tatarstane/
+2025-01-12 05:03:49,024 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54022123-rossiyanam-rasskazali-stoit-li-pokupat-krohotnye-apartamenty-v-moskve/
+2025-01-12 05:03:49,174 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54019026-zhelayuschim-sdelat-remont-v-kvartire-dali-neblagopriyatnyy-prognoz/
+2025-01-12 05:03:49,246 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54019633-deputat-gosdumy-chaplin-soobschil-ob-izmeneniyah-dlya-dachnikov-v-2025-godu/
+2025-01-12 05:03:49,249 - INFO - Объединение данных
+2025-01-12 05:03:49,265 - INFO - Подключение к базе данных PostgreSQL
+2025-01-13 01:45:27,011 - INFO - Получение данных из RSS
+2025-01-13 01:45:27,228 - INFO - Обработка данных RSS
+2025-01-13 01:45:27,346 - INFO - Изображение сохранено: ./project/images\54032664.jpg
+2025-01-13 01:45:27,432 - INFO - Изображение сохранено: ./project/images\54020599.jpg
+2025-01-13 01:45:27,592 - INFO - Изображение сохранено: ./project/images\54026837.jpg
+2025-01-13 01:45:27,720 - INFO - Изображение сохранено: ./project/images\54026553.jpg
+2025-01-13 01:45:27,851 - INFO - Изображение сохранено: ./project/images\54022123.jpg
+2025-01-13 01:45:27,948 - INFO - Изображение сохранено: ./project/images\54023035.jpg
+2025-01-13 01:45:28,119 - INFO - Изображение сохранено: ./project/images\54021803.jpg
+2025-01-13 01:45:28,203 - INFO - Изображение сохранено: ./project/images\54019947.jpg
+2025-01-13 01:45:28,326 - INFO - Изображение сохранено: ./project/images\54019633.jpg
+2025-01-13 01:45:28,413 - INFO - Изображение сохранено: ./project/images\54019341.jpg
+2025-01-13 01:45:28,415 - INFO - Получение дополнительных данных из ссылок
+2025-01-13 01:45:28,731 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54023035-v-rossii-poyavyatsya-novye-mery-podderzhki-v-ramkah-semeynoy-ipoteki/
+2025-01-13 01:45:28,751 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54020599-ekspert-kolunov-tseny-na-novostroyki-v-rf-mogut-vyrasti-do-10/
+2025-01-13 01:45:28,768 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54032664-dolya-sdelok-s-ipotekoy-dostigla-istoricheskogo-minimuma/
+2025-01-13 01:45:28,786 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54026553-kak-podnyalis-tseny-na-kvartiry-v-2024-godu/
+2025-01-13 01:45:28,808 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54026837-nika-estate-otsenilo-uscherb-sobstvennikov-iz-za-pozhara-v-kalifornii-v-135-mlrd/
+2025-01-13 01:45:28,849 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54022123-rossiyanam-rasskazali-stoit-li-pokupat-krohotnye-apartamenty-v-moskve/
+2025-01-13 01:45:28,884 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54019341-senator-otsenila-vozmozhnost-povysheniya-stavki-po-semeynoy-ipoteke/
+2025-01-13 01:45:28,980 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54019633-deputat-gosdumy-chaplin-soobschil-ob-izmeneniyah-dlya-dachnikov-v-2025-godu/
+2025-01-13 01:45:29,004 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54019947-moskvichi-nazvali-glavnye-trebovaniya-k-zhilyu-v-2025-godu/
+2025-01-13 01:45:29,113 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54021803-putin-nazval-zhulnicheskoy-operatsiey-obman-dolschikov-zastroyschikami-v-tatarstane/
+2025-01-13 01:45:29,117 - INFO - Объединение данных
+2025-01-13 01:45:29,148 - INFO - Подключение к базе данных PostgreSQL
+2025-01-14 00:50:24,306 - INFO - Получение данных из RSS
+2025-01-14 00:50:24,507 - INFO - Обработка данных RSS
+2025-01-14 00:50:24,573 - INFO - Изображение сохранено: ./project/images\54037211.jpg
+2025-01-14 00:50:24,687 - INFO - Изображение сохранено: ./project/images\54037162.jpg
+2025-01-14 00:50:24,748 - INFO - Изображение сохранено: ./project/images\54037200.jpg
+2025-01-14 00:50:24,810 - INFO - Изображение сохранено: ./project/images\54036583.jpg
+2025-01-14 00:50:24,946 - INFO - Изображение сохранено: ./project/images\54035641.jpg
+2025-01-14 00:50:25,013 - INFO - Изображение сохранено: ./project/images\54032664.jpg
+2025-01-14 00:50:25,070 - INFO - Изображение сохранено: ./project/images\54020599.jpg
+2025-01-14 00:50:25,201 - INFO - Изображение сохранено: ./project/images\54026837.jpg
+2025-01-14 00:50:25,266 - INFO - Изображение сохранено: ./project/images\54026553.jpg
+2025-01-14 00:50:25,335 - INFO - Изображение сохранено: ./project/images\54022123.jpg
+2025-01-14 00:50:25,337 - INFO - Получение дополнительных данных из ссылок
+2025-01-14 00:50:25,612 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54037162-ekspert-dopustil-rost-arendnyh-stavok-na-zhile-na-5-20/
+2025-01-14 00:50:25,635 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54035641-v-rossii-vzleteli-tseny-na-arendu-kvartir/
+2025-01-14 00:50:25,654 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54037211-meriya-moskvy-prodala-derevyannuyu-izbu-na-maslovke/
+2025-01-14 00:50:25,677 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54026837-nika-estate-otsenilo-uscherb-sobstvennikov-iz-za-pozhara-v-kalifornii-v-135-mlrd/
+2025-01-14 00:50:25,695 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54032664-dolya-sdelok-s-ipotekoy-dostigla-istoricheskogo-minimuma/
+2025-01-14 00:50:25,712 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54026553-kak-podnyalis-tseny-na-kvartiry-v-2024-godu/
+2025-01-14 00:50:25,770 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54020599-ekspert-kolunov-tseny-na-novostroyki-v-rf-mogut-vyrasti-do-10/
+2025-01-14 00:50:25,942 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54036583-kakie-novye-shtrafy-zhdut-sobstvennikov-zhilya-v-2025-godu/
+2025-01-14 00:50:25,958 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54037200-v-rossii-obrushilsya-obem-vydachi-ipoteki/
+2025-01-14 00:50:25,975 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54022123-rossiyanam-rasskazali-stoit-li-pokupat-krohotnye-apartamenty-v-moskve/
+2025-01-14 00:50:25,980 - INFO - Объединение данных
+2025-01-14 00:50:25,999 - INFO - Подключение к базе данных PostgreSQL
+2025-01-14 01:22:07,452 - INFO - Получение данных из RSS
+2025-01-14 01:22:07,615 - INFO - Обработка данных RSS
+2025-01-14 01:22:07,673 - INFO - Изображение сохранено: ./project/images\54037211.jpg
+2025-01-14 01:22:07,779 - INFO - Изображение сохранено: ./project/images\54037162.jpg
+2025-01-14 01:22:07,841 - INFO - Изображение сохранено: ./project/images\54037200.jpg
+2025-01-14 01:22:07,900 - INFO - Изображение сохранено: ./project/images\54036583.jpg
+2025-01-14 01:22:08,035 - INFO - Изображение сохранено: ./project/images\54035641.jpg
+2025-01-14 01:22:08,096 - INFO - Изображение сохранено: ./project/images\54032664.jpg
+2025-01-14 01:22:08,158 - INFO - Изображение сохранено: ./project/images\54020599.jpg
+2025-01-14 01:22:08,261 - INFO - Изображение сохранено: ./project/images\54026837.jpg
+2025-01-14 01:22:08,328 - INFO - Изображение сохранено: ./project/images\54026553.jpg
+2025-01-14 01:22:08,411 - INFO - Изображение сохранено: ./project/images\54022123.jpg
+2025-01-14 01:22:08,413 - INFO - Получение дополнительных данных из ссылок
+2025-01-14 01:22:08,698 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54037162-ekspert-dopustil-rost-arendnyh-stavok-na-zhile-na-5-20/
+2025-01-14 01:22:08,717 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54037200-v-rossii-obrushilsya-obem-vydachi-ipoteki/
+2025-01-14 01:22:08,741 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54022123-rossiyanam-rasskazali-stoit-li-pokupat-krohotnye-apartamenty-v-moskve/
+2025-01-14 01:22:08,757 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54026837-nika-estate-otsenilo-uscherb-sobstvennikov-iz-za-pozhara-v-kalifornii-v-135-mlrd/
+2025-01-14 01:22:08,774 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54037211-meriya-moskvy-prodala-derevyannuyu-izbu-na-maslovke/
+2025-01-14 01:22:08,791 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54020599-ekspert-kolunov-tseny-na-novostroyki-v-rf-mogut-vyrasti-do-10/
+2025-01-14 01:22:08,808 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54035641-v-rossii-vzleteli-tseny-na-arendu-kvartir/
+2025-01-14 01:22:08,847 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54032664-dolya-sdelok-s-ipotekoy-dostigla-istoricheskogo-minimuma/
+2025-01-14 01:22:08,869 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54036583-kakie-novye-shtrafy-zhdut-sobstvennikov-zhilya-v-2025-godu/
+2025-01-14 01:22:09,093 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54026553-kak-podnyalis-tseny-na-kvartiry-v-2024-godu/
+2025-01-14 01:22:09,095 - INFO - Объединение данных
+2025-01-14 01:22:09,112 - INFO - Подключение к базе данных PostgreSQL
+2025-01-14 01:24:48,332 - INFO - Получение данных из RSS
+2025-01-14 01:24:48,427 - INFO - Обработка данных RSS
+2025-01-14 01:24:48,488 - INFO - Изображение сохранено: ./project/images\54037211.jpg
+2025-01-14 01:24:48,576 - INFO - Изображение сохранено: ./project/images\54037162.jpg
+2025-01-14 01:24:48,651 - INFO - Изображение сохранено: ./project/images\54037200.jpg
+2025-01-14 01:24:48,745 - INFO - Изображение сохранено: ./project/images\54036583.jpg
+2025-01-14 01:24:48,858 - INFO - Изображение сохранено: ./project/images\54035641.jpg
+2025-01-14 01:24:48,917 - INFO - Изображение сохранено: ./project/images\54032664.jpg
+2025-01-14 01:24:48,979 - INFO - Изображение сохранено: ./project/images\54020599.jpg
+2025-01-14 01:24:49,087 - INFO - Изображение сохранено: ./project/images\54026837.jpg
+2025-01-14 01:24:49,155 - INFO - Изображение сохранено: ./project/images\54026553.jpg
+2025-01-14 01:24:49,226 - INFO - Изображение сохранено: ./project/images\54022123.jpg
+2025-01-14 01:24:49,228 - INFO - Получение дополнительных данных из ссылок
+2025-01-14 01:24:49,525 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54037211-meriya-moskvy-prodala-derevyannuyu-izbu-na-maslovke/
+2025-01-14 01:24:49,549 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54036583-kakie-novye-shtrafy-zhdut-sobstvennikov-zhilya-v-2025-godu/
+2025-01-14 01:24:49,570 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54026837-nika-estate-otsenilo-uscherb-sobstvennikov-iz-za-pozhara-v-kalifornii-v-135-mlrd/
+2025-01-14 01:24:49,594 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54032664-dolya-sdelok-s-ipotekoy-dostigla-istoricheskogo-minimuma/
+2025-01-14 01:24:49,611 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54022123-rossiyanam-rasskazali-stoit-li-pokupat-krohotnye-apartamenty-v-moskve/
+2025-01-14 01:24:49,627 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54026553-kak-podnyalis-tseny-na-kvartiry-v-2024-godu/
+2025-01-14 01:24:49,645 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54035641-v-rossii-vzleteli-tseny-na-arendu-kvartir/
+2025-01-14 01:24:49,690 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54037200-v-rossii-obrushilsya-obem-vydachi-ipoteki/
+2025-01-14 01:24:49,713 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54037162-ekspert-dopustil-rost-arendnyh-stavok-na-zhile-na-5-20/
+2025-01-14 01:24:49,730 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54020599-ekspert-kolunov-tseny-na-novostroyki-v-rf-mogut-vyrasti-do-10/
+2025-01-14 01:24:49,733 - INFO - Объединение данных
+2025-01-14 01:24:49,748 - INFO - Подключение к базе данных PostgreSQL
+2025-01-14 01:25:06,398 - INFO - Получение данных из RSS
+2025-01-14 01:25:06,503 - INFO - Обработка данных RSS
+2025-01-14 01:25:06,559 - INFO - Изображение сохранено: ./project/images\54037211.jpg
+2025-01-14 01:25:06,672 - INFO - Изображение сохранено: ./project/images\54037162.jpg
+2025-01-14 01:25:06,735 - INFO - Изображение сохранено: ./project/images\54037200.jpg
+2025-01-14 01:25:06,797 - INFO - Изображение сохранено: ./project/images\54036583.jpg
+2025-01-14 01:25:06,925 - INFO - Изображение сохранено: ./project/images\54035641.jpg
+2025-01-14 01:25:06,974 - INFO - Изображение сохранено: ./project/images\54032664.jpg
+2025-01-14 01:25:07,019 - INFO - Изображение сохранено: ./project/images\54020599.jpg
+2025-01-14 01:25:07,126 - INFO - Изображение сохранено: ./project/images\54026837.jpg
+2025-01-14 01:25:07,178 - INFO - Изображение сохранено: ./project/images\54026553.jpg
+2025-01-14 01:25:07,251 - INFO - Изображение сохранено: ./project/images\54022123.jpg
+2025-01-14 01:25:07,253 - INFO - Получение дополнительных данных из ссылок
+2025-01-14 01:25:07,351 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54037211-meriya-moskvy-prodala-derevyannuyu-izbu-na-maslovke/
+2025-01-14 01:25:07,369 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54037200-v-rossii-obrushilsya-obem-vydachi-ipoteki/
+2025-01-14 01:25:07,388 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54036583-kakie-novye-shtrafy-zhdut-sobstvennikov-zhilya-v-2025-godu/
+2025-01-14 01:25:07,409 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54035641-v-rossii-vzleteli-tseny-na-arendu-kvartir/
+2025-01-14 01:25:07,427 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54032664-dolya-sdelok-s-ipotekoy-dostigla-istoricheskogo-minimuma/
+2025-01-14 01:25:07,443 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54022123-rossiyanam-rasskazali-stoit-li-pokupat-krohotnye-apartamenty-v-moskve/
+2025-01-14 01:25:07,463 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54026837-nika-estate-otsenilo-uscherb-sobstvennikov-iz-za-pozhara-v-kalifornii-v-135-mlrd/
+2025-01-14 01:25:07,504 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54037162-ekspert-dopustil-rost-arendnyh-stavok-na-zhile-na-5-20/
+2025-01-14 01:25:07,520 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54026553-kak-podnyalis-tseny-na-kvartiry-v-2024-godu/
+2025-01-14 01:25:07,538 - INFO - Данные успешно получены с https://finance-rambler.ru/realty/54020599-ekspert-kolunov-tseny-na-novostroyki-v-rf-mogut-vyrasti-do-10/
+2025-01-14 01:25:07,540 - INFO - Объединение данных
+2025-01-14 01:25:07,555 - INFO - Подключение к базе данных PostgreSQL
